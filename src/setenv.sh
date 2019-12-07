@@ -1,6 +1,6 @@
 export GITACCOUNT=SunnyFenng
 
-export MYCLUSTER=
+export MYCLUSTER=tektonknativebeijing40
 export KUBECONFIG=
 
 export NAMESPACE=fengzhaoyang
